@@ -1,0 +1,37 @@
+_repo: From-School-to-Battle-fieldA-Story-of-the-War-Days_37672
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Stephens, Charles H.
+    gutenberg_agent_id: '25738'
+    url: http://www.gutenberg.org/2009/agents/25738
+  - agent_name: Oakley, Violet
+    birthdate: 1874
+    deathdate: 1961
+    gutenberg_agent_id: '35745'
+    url: http://www.gutenberg.org/2009/agents/35745
+covers:
+- cover_type: archival
+  image_path: 37672-h/images/cover.jpg
+creator:
+  author:
+    agent_name: King, Charles
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '6787'
+    url: http://www.gutenberg.org/2009/agents/6787
+description: ''
+gutenberg_issued: '2011-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37672'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcsh 'United States. Army -- Military life -- Juvenile fiction'
+title: 'From School to Battle-field: A Story of the War Days'
+url: http://www.gutenberg.org/ebooks/37672
